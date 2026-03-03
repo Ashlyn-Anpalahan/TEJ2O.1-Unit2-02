@@ -6,5 +6,4 @@ This module shows "Hello, MTHS!"
 
 from microbit import *
 
-
 display.scroll("Hello, MTHS!")
